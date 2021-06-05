@@ -5,6 +5,8 @@ loot table modifier datapack for my MC pack But I made the mod with MCreator. So
 
 I modify my MC modpack's loot table, including dungeons, creatrues, boss and difficulty.
 
+The mod edition is made by MCreator and I merge the datapack into it.
+
 目前涉及被修改的战利品表有：
 
 dungeoncrawl/loot_tables/chests
