@@ -1,0 +1,54 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+		{
+          "type": "item",
+          "name": "enigmaticlegacy:etherium_ore",
+          "weight": 1
+        },
+		{
+          "type": "item",
+          "name": "enigmaticlegacy:astral_dust",
+          "weight": 1
+        },
+		{
+          "type": "item",
+          "name": "enigmaticlegacy:ender_rod",
+          "weight": 1
+        },
+		{
+          "type": "item",
+          "name": "enigmaticlegacy:astral_dust",
+          "weight": 1
+        },
+		{
+          "type": "item",
+          "name": "xreliquary:glowing_water",
+          "weight": 1
+        },
+		{
+          "type": "item",
+          "name": "xreliquary:holy_hand_grenade",
+          "weight": 1
+        },
+		{
+          "type": "item",
+          "name": "enigmaticlegacy:astral_dust",
+          "weight": 1
+        },
+		{
+          "type": "item",
+          "name": "enigmaticlegacy:astral_dust",
+          "weight": 1
+        },
+		{
+          "type": "item",
+          "name": "enigmaticlegacy:astral_dust",
+          "weight": 1
+        }
+	]
+    }
+  ]
+}

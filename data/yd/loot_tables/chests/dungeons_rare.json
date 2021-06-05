@@ -1,0 +1,164 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+		{
+          "type": "item",
+          "name": "dungeons_gear:flaming_quiver",
+          "weight": 1
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:light_feather",
+          "weight": 1
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:soul_healer",
+          "weight": 1
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:wind_horn",
+          "weight": 1
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:ice_wand",
+          "weight": 1
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:corrupted_seeds",
+          "weight": 1
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:shock_powder",
+          "weight": 1
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:harvester",
+          "weight": 1
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:ghost_cloak",
+          "weight": 1
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:love_medallion",
+          "weight": 1
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:iron_hide_amulet",
+          "weight": 1
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:lightning_rod",
+          "weight": 1
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:gong_of_weakening",
+          "weight": 1
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:wonderful_wheat",
+          "weight": 1
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:tasty_bone",
+          "weight": 1
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:golem_kit",
+          "weight": 1
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:death_cap_mushroom",
+          "weight": 1
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:boots_of_swiftness",
+          "weight": 1
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:corrupted_pumpkin",
+          "weight": 1
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:enchanted_grass",
+          "weight": 1
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:buzzy_nest",
+          "weight": 1
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:corrupted_beacon",
+          "weight": 1
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:totem_of_soul_protection",
+          "weight": 1
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:totem_of_shielding",
+          "weight": 1
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:totem_of_regeneration",
+          "weight": 1
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:torment_quiver",
+          "weight": 1
+        },
+		{
+          "type": "item",
+          "name": "xreliquary:glowing_water",
+          "weight": 4
+        },
+		{
+          "type": "item",
+          "name": "xreliquary:angelheart_vial",
+		  "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1.0,
+                "max": 6.0,
+                "type": "minecraft:uniform"
+              }
+            }
+          ]
+          "weight": 1
+        },
+		{
+          "type": "item",
+          "name": "xreliquary:holy_hand_grenade",
+          "weight": 2
+        }
+	  ]
+    }
+  ]
+}

@@ -1,0 +1,1044 @@
+{
+  "pools": [
+		    {
+      "rolls": {
+        "min": 0,
+        "max": 3
+      },
+      "entries": [
+		{
+          "type": "item",
+          "name": "xreliquary:glowing_water",
+          "weight": 3,
+		  "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1.0,
+                "max": 6.0,
+                "type": "minecraft:uniform"
+              }
+            }
+          ]
+        },
+		{
+          "type": "item",
+          "name": "xreliquary:angelheart_vial",
+		  "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1.0,
+                "max": 3.0,
+                "type": "minecraft:uniform"
+              }
+            }
+          ],
+          "weight": 3
+        },
+		{
+		  "type": "minecraft:empty",
+          "weight": 20
+        }
+      ]
+    },
+    {
+      "rolls": {
+        "min": 0,
+        "max": 3
+      },
+      "entries": [
+		{
+          "type": "item",
+          "name": "dungeons_gear:diamond_sword",
+          "weight": 2
+        },
+				{
+          "type": "item",
+          "name": "dungeons_gear:whirlwind",
+          "weight": 2
+        },
+				{
+          "type": "item",
+          "name": "dungeons_gear:cursed_axe",
+          "weight": 2
+        },
+				{
+          "type": "item",
+          "name": "dungeons_gear:whirlwind",
+          "weight": 1
+        },
+				{
+          "type": "item",
+          "name": "dungeons_gear:double_axe",
+          "weight": 4
+        },
+				{
+          "type": "item",
+          "name": "dungeons_gear:firebrand",
+          "weight": 2
+        },
+				{
+          "type": "item",
+          "name": "dungeons_gear:axe",
+          "weight": 4
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:pickaxe",
+          "weight": 4
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:diamond_pickaxe",
+          "weight": 2
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:dagger",
+          "weight": 4
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:sword",
+          "weight": 4
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:gauntlet",
+          "weight": 4
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:cutlass",
+          "weight": 4
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:rapier",
+          "weight": 4
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:sickle",
+          "weight": 4
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:whip",
+          "weight": 4
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:glaive",
+          "weight": 4
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:spear",
+          "weight": 4
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:claymore",
+          "weight": 4
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:soul_knife",
+          "weight": 4
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:battlestaff",
+          "weight": 4
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:soul_scythe",
+          "weight": 4
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:jailors_scythe",
+          "weight": 2
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:frost_scythe",
+          "weight": 2
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:freezing_foil",
+          "weight": 2
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:bee_stinger",
+          "weight": 2
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:the_last_laugh",
+          "weight": 2
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:nightmares_bite",
+          "weight": 2
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:shear_dagger",
+          "weight": 2
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:moon_dagger",
+          "weight": 2
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:fang_of_frost",
+          "weight": 2
+        },
+				{
+          "type": "item",
+          "name": "dungeons_gear:dark_katana",
+          "weight": 2
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:growing_staff",
+          "weight": 4
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:battlestaff_of_terror",
+          "weight": 4
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:soul_fist",
+          "weight": 4
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:mauler",
+          "weight": 4
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:fighters_binding",
+          "weight": 4
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:sinister_sword",
+          "weight": 4
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:hawkbrand",
+          "weight": 4
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:nameless_blade",
+          "weight": 4
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:dancers_sword",
+          "weight": 4
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:masters_katana",
+          "weight": 4
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:whispering_spear",
+          "weight": 4
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:fortune_spear",
+          "weight": 4
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:great_axeblade",
+          "weight": 4
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:heartstealer",
+          "weight": 4
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:broadsword",
+          "weight": 4
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:truthseeker",
+          "weight": 4
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:eternal_knife",
+          "weight": 4
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:katana",
+          "weight": 4
+        },
+				{
+          "type": "item",
+          "name": "dungeons_gear:stormlander",
+          "weight": 2
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:hammer_of_gravity",
+          "weight": 2
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:great_hammer",
+          "weight": 4
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:suns_grace",
+          "weight": 2
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:flail",
+          "weight": 2
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:mace",
+          "weight": 4
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:guardian_bow",
+          "weight": 2
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:longbow",
+          "weight": 4
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:sabrewing",
+          "weight": 2
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:elite_power_bow",
+          "weight": 2
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:power_bow",
+          "weight": 4
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:nocturnal_bow",
+          "weight": 2
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:bow_of_lost_souls",
+          "weight": 2
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:soul_bow",
+          "weight": 4
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:haunted_bow",
+          "weight": 2
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:twin_bow",
+          "weight": 2
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:mechanical_shortbow",
+          "weight": 2
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:ancient_bow",
+          "weight": 2
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:masters_bow",
+          "weight": 2
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:shortbow",
+          "weight": 2
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:hunters_promise",
+          "weight": 2
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:hunting_bow",
+          "weight": 4
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:red_snake",
+          "weight": 2
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:purple_storm",
+          "weight": 2
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:rapid_crossbow",
+          "weight": 4
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:winters_touch",
+          "weight": 2
+        },
+				{
+          "type": "item",
+          "name": "dungeons_gear:snow_bow",
+          "weight": 4
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:the_pink_scoundrel",
+          "weight": 2
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:the_green_menace",
+          "weight": 2
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:trickbow",
+          "weight": 4
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:love_spell_bow",
+          "weight": 2
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:purple_storm",
+          "weight": 2
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:auto_crossbow",
+          "weight": 2
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:auto_crossbow",
+          "weight": 2
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:soul_crossbow",
+          "weight": 4
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:slayer_crossbow",
+          "weight": 2
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:doom_crossbow",
+          "weight": 2
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:heavy_crossbow",
+          "weight": 4
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:the_slicer",
+          "weight": 2
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:azure_seeker",
+          "weight": 2
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:voidcaller",
+          "weight": 2
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:soul_hunter_crossbow",
+          "weight": 2
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:corrupted_crossbow",
+          "weight": 2
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:burst_crossbow",
+          "weight": 4
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:imploding_crossbow",
+          "weight": 2
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:firebolt_thrower",
+          "weight": 2
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:exploding_crossbow",
+          "weight": 4
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:lightning_harp_crossbow",
+          "weight": 2
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:harp_crossbow",
+          "weight": 2
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:scatter_crossbow",
+          "weight": 4
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:baby_crossbow",
+          "weight": 2
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:dual_crossbow",
+          "weight": 4
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:heros_helmet",
+          "weight": 2
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:heros_chestplate",
+          "weight": 2
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:champions_helmet",
+          "weight": 4
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:champions_chestplate",
+          "weight": 4
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:splendid_robe",
+          "weight": 2
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:battle_robe",
+          "weight": 4
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:archers_hood",
+          "weight": 2
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:archers_vest",
+          "weight": 2
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:hunters_vest",
+          "weight": 4
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:dark_chestplate",
+          "weight": 4
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:ember_robe",
+          "weight": 2
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:evocation_hat",
+          "weight": 4
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:evocation_robe",
+          "weight": 4
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:titans_shroud_helmet",
+          "weight": 2
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:titans_shroud_chestplate",
+          "weight": 2
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:royal_guard_helmet",
+          "weight": 4
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:royal_guard_chestplate",
+          "weight": 4
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:dark_helmet",
+          "weight": 4
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:curious_helmet",
+          "weight": 2
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:curious_chestplate",
+          "weight": 2
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:guards_helmet",
+          "weight": 4
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:guards_chestplate",
+          "weight": 4
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:wither_helmet",
+          "weight": 2
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:wither_chestplate",
+          "weight": 2
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:grim_helmet",
+          "weight": 4
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:grim_chestplate",
+          "weight": 4
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:ember_hat",
+          "weight": 2
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:phantom_chestplate",
+          "weight": 2
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:shadow_walker_hood",
+          "weight": 2
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:shadow_walker_vest",
+          "weight": 2
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:ocelot_hood",
+          "weight": 4
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:ocelot_vest",
+          "weight": 4
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:renegade_helmet",
+          "weight": 2
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:renegade_chestplate",
+          "weight": 2
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:mercenary_helmet",
+          "weight": 4
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:mercenary_chestplate",
+          "weight": 4
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:reinforced_mail_helmet",
+          "weight": 4
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:reinforced_mail_chestplate",
+          "weight": 4
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:full_metal_helmet",
+          "weight": 2
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:full_metal_chestplate",
+          "weight": 2
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:plate_helmet",
+          "weight": 4
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:plate_chestplate",
+          "weight": 4
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:frost_bite_helmet",
+          "weight": 2
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:frost_bite_chestplate",
+          "weight": 2
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:phantom_helmet",
+          "weight": 4
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:frost_helmet",
+          "weight": 2
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:frost_chestplate",
+          "weight": 2
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:snow_helmet",
+          "weight": 4
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:snow_chestplate",
+          "weight": 4
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:highland_helmet",
+          "weight": 2
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:highland_chestplate",
+          "weight": 2
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:scale_mail_chestplate",
+          "weight": 4
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:stalwart_helmet",
+          "weight": 2
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:stalwart_chestplate",
+          "weight": 2
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:cave_crawler_helmet",
+          "weight": 2
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:thief_vest",
+          "weight": 4
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:thief_hood",
+          "weight": 4
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:spider_vest",
+          "weight": 2
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:spider_hood",
+          "weight": 2
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:wolf_vest",
+          "weight": 4
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:wolf_hood",
+          "weight": 4
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:fox_vest",
+          "weight": 2
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:fox_hood",
+          "weight": 2
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:soul_robe",
+          "weight": 4
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:soul_hood",
+          "weight": 4
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:souldancer_robe",
+          "weight": 2
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:souldancer_hood",
+          "weight": 2
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:spelunker_helmet",
+          "weight": 4
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:spelunker_chestplate",
+          "weight": 4
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:cave_crawler_chestplate",
+          "weight": 2
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:flaming_quiver",
+          "weight": 1
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:light_feather",
+          "weight": 1
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:soul_healer",
+          "weight": 1
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:wind_horn",
+          "weight": 1
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:ice_wand",
+          "weight": 1
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:corrupted_seeds",
+          "weight": 1
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:shock_powder",
+          "weight": 1
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:harvester",
+          "weight": 1
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:ghost_cloak",
+          "weight": 1
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:love_medallion",
+          "weight": 1
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:iron_hide_amulet",
+          "weight": 1
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:lightning_rod",
+          "weight": 1
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:gong_of_weakening",
+          "weight": 1
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:wonderful_wheat",
+          "weight": 1
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:tasty_bone",
+          "weight": 1
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:golem_kit",
+          "weight": 1
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:death_cap_mushroom",
+          "weight": 1
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:boots_of_swiftness",
+          "weight": 1
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:corrupted_pumpkin",
+          "weight": 1
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:enchanted_grass",
+          "weight": 1
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:buzzy_nest",
+          "weight": 1
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:corrupted_beacon",
+          "weight": 1
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:totem_of_soul_protection",
+          "weight": 1
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:totem_of_shielding",
+          "weight": 1
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:totem_of_regeneration",
+          "weight": 1
+        },
+		{
+          "type": "item",
+          "name": "dungeons_gear:torment_quiver",
+          "weight": 1
+        }
+	  ]
+	}
+  ]
+}

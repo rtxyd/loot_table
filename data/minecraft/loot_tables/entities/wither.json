@@ -1,0 +1,89 @@
+{
+  "type": "minecraft:entity",
+  "pools": [
+  		    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "name": "yd:chests/cyclic_treasure"
+        }
+		],
+      "conditions": [
+        {
+          "condition": "minecraft:killed_by_player"
+        }
+      ]
+		},
+  		    {
+      "rolls": 1,
+      "entries": [
+		        {
+          "type": "minecraft:loot_table",
+          "name": "yd:chests/dungeons_gear"
+        }
+		],
+      "conditions": [
+        {
+          "condition": "minecraft:killed_by_player"
+        }
+      ]
+		},
+		{
+      "rolls": 1,
+      "entries": [
+		        {
+          "type": "minecraft:loot_table",
+          "name": "yd:chests/dungeons_rare"
+        }
+		],
+      "conditions": [
+        {
+          "condition": "minecraft:killed_by_player"
+        }
+      ]
+		},
+		{
+      "rolls": 1,
+      "entries": [
+			{
+          "type": "minecraft:loot_table",
+          "name": "yd:chests/damage_1"
+        }
+      ],
+      "conditions": [
+        {
+          "condition": "minecraft:killed_by_player"
+        }
+      ]
+    },
+		{
+      "rolls": 1,
+      "entries": [
+	  		{
+          "type": "item",
+          "name": "enigmaticlegacy:astral_dust",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+			  }
+			  ],
+          "weight": 1
+        },
+	  		{
+          "type": "minecraft:empty",
+          "weight": 1
+        }
+      ],
+      "conditions": [
+        {
+          "condition": "minecraft:killed_by_player"
+        }
+      ]
+    }
+ ]
+}

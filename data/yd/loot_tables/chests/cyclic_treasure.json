@@ -1,0 +1,220 @@
+{
+  "pools": [
+    {
+      "rolls": {
+        "min": 0,
+        "max": 3
+      },
+      "entries": [
+		        {
+          "type": "item",
+          "name": "cyclic:charm_antidote",
+          "weight": 2
+	},
+        {
+          "type": "item",
+          "name": "cyclic:charm_fire",
+          "weight": 2
+	},
+        {
+          "type": "item",
+          "name": "cyclic:charm_wither",
+          "weight": 2
+	},
+        {
+          "type": "item",
+          "name": "cyclic:charm_void",
+          "weight": 2
+	},
+	        {
+          "type": "item",
+          "name": "cyclic:soundproofing",
+          "weight": 15,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 5
+              }
+	}
+	]
+	},
+	        {
+          "type": "item",
+          "name": "cyclic:spelunker",
+          "weight": 2
+	},
+		        {
+          "type": "item",
+          "name": "cyclic:spell_ice",
+          "weight": 2
+	},
+		        {
+          "type": "item",
+          "name": "cyclic:spell_water",
+          "weight": 2
+	},
+		        {
+          "type": "item",
+          "name": "cyclic:spawner_seeker",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 5
+              }
+			  }
+			  ]
+	},
+		        {
+          "type": "item",
+          "name": "cyclic:build_scepter",
+          "weight": 2
+	},
+		        {
+          "type": "item",
+          "name": "cyclic:replace_scepter",
+          "weight": 2
+	},
+		        {
+          "type": "item",
+          "name": "cyclic:ice_scepter",
+          "weight": 2
+	},
+		        {
+          "type": "item",
+          "name": "cyclic:fire_scepter",
+          "weight": 2
+	},
+		        {
+          "type": "item",
+          "name": "cyclic:lightning_scepter",
+          "weight": 1
+	},
+		        {
+          "type": "item",
+          "name": "cyclic:offset_scepter",
+          "weight": 4
+	},
+		        {
+          "type": "item",
+          "name": "cyclic:evoker_fang",
+          "weight": 3
+	},
+		        {
+          "type": "item",
+          "name": "cyclic:antigravity",
+          "weight": 1
+	},
+		        {
+          "type": "item",
+          "name": "cyclic:flippers",
+          "weight": 4
+	},
+		        {
+          "type": "item",
+          "name": "cyclic:glove_climb",
+          "weight": 2
+	},
+			        {
+          "type": "item",
+          "name": "cyclic:tile_transporter_empty",
+          "weight": 1
+        },
+		        {
+          "type": "item",
+          "name": "cyclic:apple_diamond",
+          "weight": 2,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+			  }
+			  ]
+	},
+		        {
+          "type": "item",
+          "name": "cyclic:apple_iron",
+          "weight": 4,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+			  }
+			  ]
+	},
+	{
+          "type": "item",
+          "name": "cyclic:apple_lapis",
+          "weight": 4,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+			  }
+			  ]
+	},
+	{
+          "type": "item",
+          "name": "cyclic:apple_prismarine",
+          "weight": 4,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+			  }
+			  ]
+	},
+	{
+          "type": "item",
+          "name": "cyclic:apple_bone",
+          "weight": 1
+	},
+	{
+          "type": "item",
+          "name": "cyclic:apple_chorus",
+          "weight": 2
+	},
+	{
+          "type": "item",
+          "name": "cyclic:apple_honey",
+          "weight": 8
+	},
+	{
+          "type": "item",
+          "name": "cyclic:apple_emerald",
+          "weight": 2
+	},
+			        {
+          "type": "item",
+          "name": "scalinghealth:heart_crystal_shard",
+          "weight": 15,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 4,
+                "max": 8
+              }
+			  }
+			  ]
+        }
+      ]
+    }
+  ]
+}
