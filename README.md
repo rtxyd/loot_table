@@ -20,5 +20,3 @@ scalinghealth/loot_tables/bonus_drops & chests_addition
 shrines/loot_tables/chests
 
 towers_of_the_wild/loot_tables/chests/tower
-
-其中 yd/loot_tables/chests 中所有内容是我自己写的。
